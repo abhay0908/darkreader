@@ -146,7 +146,7 @@ declare namespace DarkReader {
          * Mostly used for wrongly inverted background-images
          */
         ignoreImageAnalysis: string[];
-    }
+   }
 }
 
 declare module 'darkreader' {
